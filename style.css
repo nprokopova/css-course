@@ -28,7 +28,7 @@ main {
   border-top: 8px solid hsl(0deg, 0%, 40%);
 }
 .intro-chunk {
-  max-width: 251px;
+  max-width: 250px;
   padding: 0px 16px;
   
 }
