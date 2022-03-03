@@ -28,7 +28,7 @@ main {
   border-top: 8px solid hsl(0deg, 0%, 40%);
 }
 .intro-chunk {
-  max-width: 250px;
+  max-width: 390px;
   padding: 0px 16px;
   
 }
@@ -44,7 +44,7 @@ strong {
 .indented-heading {
 font-size: 1.25rem;
 background-color: hsl(45deg, 100%, 50%);
-padding: 16px 24px;
+padding: 8px 24px;
 max-width: fit-content;
 margin: 0px;
 margin-left: -24px;
